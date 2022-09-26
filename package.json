@@ -1,0 +1,10 @@
+{
+    "name": "express-server",
+    "version": "1.0.0",
+    "description": "short text",
+    "main": "server.js",
+    "privat": true,
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
